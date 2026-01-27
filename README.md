@@ -15,7 +15,7 @@ I am a Data Science undergraduate at Temple University with a concentration in C
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PratikBalaji&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
