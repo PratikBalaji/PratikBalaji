@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Data Science undergraduate at Temple University with a concentration in Computational Analytics. I specialize in leveraging statistical methods and algorithmic approaches to derive meaningful insights from complex datasets.<br><br>Driven by analytical rigor, I am currently expanding my expertise in Generative AI and AI Agent Fundamentals to solve real-world data challenges. I thrive in collaborative environments, whether I'm optimizing robot performance in Java, building Python data pipelines, or engaging with my community through music and sports.
 
 
